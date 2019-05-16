@@ -1,0 +1,26 @@
+{
+  "name": "express-25.7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martin-Ka3ka/express-25.7.git"
+  },
+  "author": "Martin_Ka3ka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martin-Ka3ka/express-25.7/issues"
+  },
+  "homepage": "https://github.com/Martin-Ka3ka/express-25.7#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "passport": "^0.4.0",
+    "passport-google-oauth": "^2.0.0",
+    "pug": "^2.0.3"
+  }
+}
